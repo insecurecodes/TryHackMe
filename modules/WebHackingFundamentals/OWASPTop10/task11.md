@@ -1,5 +1,17 @@
 # Task 11
 
+- [Task 11](#task-11)
+  - [What is the name of the mentioned directory?](#what-is-the-name-of-the-mentioned-directory)
+    - [Answer](#answer)
+  - [Navigate to the directory you found in question one. What file stands out as being likely to contain sensitive data?](#navigate-to-the-directory-you-found-in-question-one-what-file-stands-out-as-being-likely-to-contain-sensitive-data)
+    - [Answer](#answer-1)
+  - [Use the supporting material to access the sensitive data. What is the password hash of the admin user?](#use-the-supporting-material-to-access-the-sensitive-data-what-is-the-password-hash-of-the-admin-user)
+    - [Answer](#answer-2)
+  - [Crack the hash. What is the admin's plaintext password?](#crack-the-hash-what-is-the-admins-plaintext-password)
+    - [Answer](#answer-3)
+  - [Login as the admin. What is the flag?](#login-as-the-admin-what-is-the-flag)
+    - [Answer](#answer-4)
+
 For solving this task, the machine should be started on **Task 8**
 
 Have a look around the webapp. The developer has left themselves a note indicating that there is sensitive data in a specific directory. 
