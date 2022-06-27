@@ -1,5 +1,20 @@
 # Task 5
 
+- [Task 5](#task-5)
+  - [What strange text file is in the website root directory?](#what-strange-text-file-is-in-the-website-root-directory)
+    - [Answer](#answer)
+  - [How many non-root/non-service/non-daemon users are there?](#how-many-non-rootnon-servicenon-daemon-users-are-there)
+    - [Answer](#answer-1)
+  - [What user is this app running as?](#what-user-is-this-app-running-as)
+    - [Answer](#answer-2)
+  - [What is the user's shell set as?](#what-is-the-users-shell-set-as)
+    - [Answer](#answer-3)
+  - [What version of Ubuntu is running?](#what-version-of-ubuntu-is-running)
+    - [Answer](#answer-4)
+  - [Print out the MOTD.  What favorite beverage is shown?](#print-out-the-motd--what-favorite-beverage-is-shown)
+    - [Answer](#answer-5)
+- [EXTRA](#extra)
+  - [Spawn remote shell in that machine](#spawn-remote-shell-in-that-machine)
 ## What strange text file is in the website root directory?
 
 ```
