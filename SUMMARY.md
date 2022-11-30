@@ -20,3 +20,8 @@
 ## Red Teaming
 
 * [Red Team Fundamentals](red-teaming/red-team-fundamentals.md)
+
+## EXTRA
+
+* [Advent of Cyber 2022](extra/advent-of-cyber-2022/README.md)
+  * [Day 1](extra/advent-of-cyber-2022/day-1.md)
