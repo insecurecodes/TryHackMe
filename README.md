@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/THM-Hack-The-Planet-Waves (1920x1080).png
-coverY: 126.11070110701108
+cover: .gitbook/assets/tryhackme.png
+coverY: -32.11808118081181
 ---
 
 # 🥷 TryHackMe
