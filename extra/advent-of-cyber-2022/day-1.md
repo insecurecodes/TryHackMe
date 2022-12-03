@@ -38,7 +38,7 @@
 4. With me, your reputation goes tumbling down.
 5. Goals set, goals attained. I win!
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Flags
 

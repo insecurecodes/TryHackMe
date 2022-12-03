@@ -46,7 +46,7 @@ W3LL\_D0N3\_LVL2
 
 Find the ID of the XSS playground element
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ```javascript
 <script>document.querySelector('#thm-title').textContent = 'I am a hacker'</script>

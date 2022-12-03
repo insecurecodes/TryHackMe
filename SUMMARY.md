@@ -25,3 +25,5 @@
 
 * [Advent of Cyber 2022](extra/advent-of-cyber-2022/README.md)
   * [Day 1](extra/advent-of-cyber-2022/day-1.md)
+  * [Day 2](extra/advent-of-cyber-2022/day-2.md)
+  * [Day 3](extra/advent-of-cyber-2022/day-3.md)
