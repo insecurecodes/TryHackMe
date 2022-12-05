@@ -2,7 +2,7 @@
 
 ### What is the name of the Registrar for the domain santagift.shop?
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ```bash
 whois santagift.shop |grep -i registrar

@@ -6,7 +6,7 @@
 nmap -sV 10.10.103.165
 ```
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Apache
@@ -14,7 +14,7 @@ Apache
 
 ### What is the name of the service running on port 22 on the QA server?
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 SSH
@@ -22,7 +22,7 @@ SSH
 
 ### What flag can you find after successfully accessing the Samba service?
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 * Username: ubuntu
 * Password: S@nta2022
@@ -33,7 +33,7 @@ SSH
 
 ### What is the password for the username santahr?
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 santa25
