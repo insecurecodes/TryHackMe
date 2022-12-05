@@ -51,7 +51,7 @@ webapp.db
 
 Download the **webapp.db** and open with a program called **sqlitebrowser**
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Answer <a href="#answer-2" id="answer-2"></a>
 

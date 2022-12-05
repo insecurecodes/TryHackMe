@@ -13,7 +13,7 @@
 7. Deletion of evidence is part of my process.
 8. Communication with the compromised goes through me.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Puzzle 2
 
@@ -26,7 +26,7 @@
 5. Passwords I collect are the keys to the mainframe.
 6. Side to side, machine to machine, we hop.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Puzzle 3
 
@@ -38,7 +38,7 @@
 4. With me, your reputation goes tumbling down.
 5. Goals set, goals attained. I win!
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Flags
 
