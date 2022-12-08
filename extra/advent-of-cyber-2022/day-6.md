@@ -43,31 +43,31 @@ Content-Transfer-Encoding: base64
 Content-Disposition: attachment; filename="Division_of_labour-Load_share_plan.doc"; name="Division_of_labour-Load_share_plan.doc"
 ```
 
-#### What is the email address of the sender?
+### What is the email address of the sender?
 
 {% hint style="info" %}
 chief.elf@santaclaus.thm
 {% endhint %}
 
-#### What is the return address?
+### What is the return address?
 
 {% hint style="info" %}
 murphy.evident@bandityeti.thm
 {% endhint %}
 
-#### On whose behalf was the email sent?
+### On whose behalf was the email sent?
 
 {% hint style="info" %}
 Chief Elf
 {% endhint %}
 
-#### What is the X-spam score?
+### What is the X-spam score?
 
 {% hint style="info" %}
 3
 {% endhint %}
 
-#### What is hidden in the value of the Message-ID field?
+### What is hidden in the value of the Message-ID field?
 
 ```bash
 echo -n "QW9DMjAyMl9FbWFpbF9BbmFseXNpcw==" |base64 -d
@@ -79,7 +79,7 @@ AoC2022\_Email\_Analysis
 
 ## Visit the email reputation check website provided in the task.&#x20;
 
-#### What is the reputation result of the sender's email address?
+### What is the reputation result of the sender's email address?
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
@@ -89,13 +89,13 @@ RISKY
 
 ## Check the attachments.
 
-#### What is the filename of the attachment?
+### What is the filename of the attachment?
 
 {% hint style="info" %}
 Division\_of\_labour-Load\_share\_plan.doc
 {% endhint %}
 
-#### What is the hash value of the attachment?
+### What is the hash value of the attachment?
 
 ```bash
 emlAnalyzer -i Urgent\:.eml --header --html -u --text --extract-all
@@ -160,7 +160,7 @@ sha256sum Division_of_labour-Load_share_plan.doc
 
 Navigate to the behaviour section.
 
-#### Navigate to the behaviour section. What is the second tactic marked in the Mitre ATT\&CK section?
+### Navigate to the behaviour section. What is the second tactic marked in the Mitre ATT\&CK section?
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -174,7 +174,7 @@ Defense Evasion
 
 {% embed url="https://labs.inquest.net/dfi/sha256/0827bb9a2e7c0628b82256759f0f888ca1abd6a2d903acdb8e44aca6a1a03467" %}
 
-#### What is the subcategory of the file?
+### What is the subcategory of the file?
 
 <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
