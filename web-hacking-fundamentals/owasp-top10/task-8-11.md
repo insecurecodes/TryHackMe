@@ -41,7 +41,7 @@ All assets are hosted under /assets
 
 ### Navigate to the directory you found in question one. What file stands out as being likely to contain sensitive data? <a href="#navigate-to-the-directory-you-found-in-question-one-what-file-stands-out-as-being-likely-to-contain" id="navigate-to-the-directory-you-found-in-question-one-what-file-stands-out-as-being-likely-to-contain"></a>
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Answer <a href="#answer-1" id="answer-1"></a>
 
@@ -51,7 +51,7 @@ webapp.db
 
 Download the **webapp.db** and open with a program called **sqlitebrowser**
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Answer <a href="#answer-2" id="answer-2"></a>
 
