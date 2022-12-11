@@ -162,7 +162,7 @@ Navigate to the behaviour section.
 
 ### Navigate to the behaviour section. What is the second tactic marked in the Mitre ATT\&CK section?
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Defense Evasion

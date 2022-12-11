@@ -18,7 +18,7 @@ Repo link
 
 {% embed url="https://github.com/search?q=santagiftshop" %}
 
-![](<../../.gitbook/assets/image (5) (2).png>)
+![](<../../.gitbook/assets/image (5) (2) (1).png>)
 
 {% hint style="info" %}
 {THM\_OSINT\_WORKS}

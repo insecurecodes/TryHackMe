@@ -28,7 +28,7 @@ Friday
 
 ### What is the IP address of the attacker? 
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 10.10.249.191

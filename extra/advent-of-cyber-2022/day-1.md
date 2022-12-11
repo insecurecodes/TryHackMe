@@ -26,7 +26,7 @@
 5. Passwords I collect are the keys to the mainframe.
 6. Side to side, machine to machine, we hop.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Puzzle 3
 
