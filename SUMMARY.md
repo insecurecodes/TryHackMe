@@ -33,3 +33,4 @@
   * [Day 7](extra/advent-of-cyber-2022/day-7.md)
   * [Day 8](extra/advent-of-cyber-2022/day-8.md)
   * [Day 9](extra/advent-of-cyber-2022/day-9.md)
+  * [Day 10](extra/advent-of-cyber-2022/day-10.md)
